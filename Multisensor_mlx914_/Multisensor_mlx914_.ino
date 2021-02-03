@@ -1,5 +1,5 @@
-/*
- * This code is created by pad89
+ /*
+ * This code is created by 98prabowo
  * Change Wifi SSID and Password to connect to your Wifi conection
  * Change mqtt server, user, and password to match your server
  * Change mqtt topic to uniqe topic that represent your data
